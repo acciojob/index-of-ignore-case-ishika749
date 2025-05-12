@@ -7,7 +7,7 @@ function indexOfIgnoreCase(str: string, subStr: string): number {
   return lowerStr.indexOf(lowerSubStr);
 }
 
-}
+
 
 // Please do not change the code below
 //const s1 = prompt("Enter s1:");
